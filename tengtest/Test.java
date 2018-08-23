@@ -28,7 +28,7 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        System.out.println(toNumberFormat("+99\"888'1111"));
+        System.out.println(toNumberFormat("+99\"888'1111111"));
     }
 
 }
